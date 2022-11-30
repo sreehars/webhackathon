@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-image: url(menubg1.jpg);
+    background-size: cover;
+    background-position:center ;
+    
+}
+.sign-up-form{
+    width: 300px;
+    box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.3);
+    background: #fff;
+    padding: 50px;
+    margin: 8% auto 0;
+    text-align: center;
+    background-color: moccasin;
+    
+    
+    
+}
+.sign-up-form h1{ 
+    color: black;
+    margin-bottom: 30px;
+    
+}
